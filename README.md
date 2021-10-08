@@ -2,8 +2,7 @@
 
 ### Screenshots
 
-![](https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721379.png | width=100)
-![](https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721392.png | width=100)
-![](https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721374.png | width=100)
-![](https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721398.png | width=100)
+<img src="https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721379.png" alt="alt text" width="300" height="600"> <img src="https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721392.png" alt="alt text" width="300" height="600"> <img src="https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721374.png" alt="alt text" width="300" height="600"> <img src="https://github.com/Mohammed187/chat_messaging_app/blob/Mohammed187-screenshots/Screenshot_1633721398.png" alt="alt text" width="300" height="600">
+
+
 
